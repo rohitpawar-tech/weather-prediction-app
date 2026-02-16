@@ -18,3 +18,15 @@ A responsive weather prediction web application built using HTML, CSS, and JavaS
 - HTML5
 - CSS3
 - JavaScript
+
+## 📸 Preview
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd7be506-6f95-4261-82c0-acf1113a331a" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8cb890c2-2d2c-4d7e-a154-a605d4c48dee" />
+
+## 📂 How to Run
+
+1. Clone the repository
+2. Open index.html in browser
+
+   
