@@ -12,3 +12,9 @@ A responsive weather prediction web application built using HTML, CSS, and JavaS
 - Temperature unit toggle (°C / °F)
 - Wind speed, humidity, UV index
 - Clean and modern UI
+
+- ## 🛠 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
