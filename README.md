@@ -29,4 +29,6 @@ A responsive weather prediction web application built using HTML, CSS, and JavaS
 1. Clone the repository
 2. Open index.html in browser
 
+
+Developed by Rohit Pawar
    
